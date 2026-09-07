@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Study in Germany &amp; DAAD Scholars Hub</title>
+    <link>https://jibranpcccc.github.io/study-in-germany-daadvise-hub/</link>
+    <description>Verified community directory and updates.</description>
+    <lastBuildDate>Mon, 07 Sep 2026 12:14:41 GMT</lastBuildDate>
+    <atom:link href="https://jibranpcccc.github.io/study-in-germany-daadvise-hub/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <item>
+      <title>Study in Germany &amp; DAAD Scholars Hub Initial Release</title>
+      <link>https://jibranpcccc.github.io/study-in-germany-daadvise-hub/</link>
+      <pubDate>Mon, 07 Sep 2026 12:14:41 GMT</pubDate>
+      <description>Initial collection of verified communities published.</description>
+    </item>
+  </channel>
+</rss>
